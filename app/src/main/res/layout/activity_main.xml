@@ -24,7 +24,7 @@
             android:weightSum="1">
 
             <Button
-                android:layout_width="179dp"
+                android:layout_width="19dp"
                 android:layout_height="81dp"
                 android:text="True"
                 android:id="@+id/button" />
